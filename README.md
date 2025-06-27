@@ -1,0 +1,2 @@
+# PrefabAnalyzer
+Unity Tool
